@@ -1,0 +1,11 @@
+{
+  "name": "canvas_example",
+  "version": "0.0.1",
+  "description": "Aprendiendo canvas con socket io",
+  "author": "Rat team",
+  "license": "MIT",
+  "devDependencies": {
+  	 "express": "~4.12.3",
+  	 "socket.io": "~1.3.5"
+  }
+}
